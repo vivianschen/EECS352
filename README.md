@@ -1,2 +1,2 @@
-# EECS352
-Machine Perception of Music and Audio (Northwestern University)
+# EECS352 (Northwestern University)
+Machine Perception of Music and Audio
